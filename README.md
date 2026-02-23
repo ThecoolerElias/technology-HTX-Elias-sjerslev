@@ -30,6 +30,10 @@ Vi lavede vist også et lille program til at kryptere/dekryptere beskeder - Der 
 3D Design og print
 Fusion, Cura (Creality CR10S-pro), Bambu studio (Bambu lab P2S)
 
+<img width="1150" height="613" alt="image" src="https://github.com/user-attachments/assets/55045543-35d0-4434-b1b5-5404b457e472" />
+
+
+
 Når man får brug for at vide lidt mere om markdown:
 Markdown er den syntaks man bruger på github til at lave readme filer... Den der forkant den betyder at det er en overskrift.
 
