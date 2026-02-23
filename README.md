@@ -21,6 +21,7 @@ Variabler, løkker, kontrolstrukturer (if/else), lister. Sierpinski trekant kode
 Kryptering:
 Symmetrisk vs. Asymmetrisk kryptering, RSA, Caesar.
 
+vi skulle lave ceasar ciffer i p5js
 [mit kode jeg fik lavet](https://editor.p5js.org/eliassjerslevrasmussen/full/b0AtBeUth)
 
 Kryptografi, IT sikkerhed, CIA modellen, Basic gennemgang af RSA kryptering
@@ -29,6 +30,8 @@ Vi lavede vist også et lille program til at kryptere/dekryptere beskeder - Der 
 
 3D Design og print
 Fusion, Cura (Creality CR10S-pro), Bambu studio (Bambu lab P2S)
+
+vi fik til opgave at 3D designe nogle forskellige geometriske figurer i fusion figurene skulle all have en ens volume på 5cm2 
 
 <img width="950" height="413" alt="image" src="https://github.com/user-attachments/assets/55045543-35d0-4434-b1b5-5404b457e472" />
 <img width="774" height="620" alt="image" src="https://github.com/user-attachments/assets/365b323e-b853-42c8-8817-048e0646d7ad" />
