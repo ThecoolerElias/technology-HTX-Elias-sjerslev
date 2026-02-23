@@ -31,6 +31,7 @@ Vi lavede vist også et lille program til at kryptere/dekryptere beskeder - Der 
 Fusion, Cura (Creality CR10S-pro), Bambu studio (Bambu lab P2S)
 
 <img width="950" height="413" alt="image" src="https://github.com/user-attachments/assets/55045543-35d0-4434-b1b5-5404b457e472" />
+<img width="774" height="620" alt="image" src="https://github.com/user-attachments/assets/365b323e-b853-42c8-8817-048e0646d7ad" />
 
 
 
