@@ -15,6 +15,7 @@ Programmering:
 Variabler, løkker, kontrolstrukturer (if/else), lister. Sierpinski trekant kode, fysiksimuleringskode
 
 [mit kode jeg fik lavet med hoppe bolde](https://editor.p5js.org/eliassjerslevrasmussen/full/fqXPLk_ei)
+
 [opgave med not so random points](https://editor.p5js.org/eliassjerslevrasmussen/full/eM4ynxTil)
 
 Kryptering:
