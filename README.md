@@ -47,6 +47,9 @@ cheatSheet til markdown:
 
 # arduino project
 (https://github.com/GBJ14/Arduinoprojekt-1)
+endte med at bruge en esp32
+<img width="327" height="191" alt="image" src="https://github.com/user-attachments/assets/e0f56394-2cda-4181-96d6-724abbc42c9f" />
+
 
 # tello drone
 (https://github.com/GBJ14/Tello-drone-tingting)
