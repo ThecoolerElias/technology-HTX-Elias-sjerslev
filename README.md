@@ -6,7 +6,7 @@ yo what up youtube this is ya boi Elias here to document my wonderful ativments
 
 hvad har jeg lavet før jeg begyndte at bruge githud
 
-#Grundforløb:
+# Grundforløb:
 App-lab, gestalt love, prototyper, brugertest (think-aloud)
 
 vi lavede en app til et bil firma
