@@ -45,3 +45,11 @@ cheatSheet til markdown:
 [Her er et link til at lære om markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 
 
+# arduino project
+(https://github.com/GBJ14/Arduinoprojekt-1)
+
+# tello drone
+(https://github.com/GBJ14/Tello-drone-tingting)
+
+
+
