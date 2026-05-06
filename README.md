@@ -6,7 +6,7 @@ yo what up youtube this is ya boi Elias here to document my wonderful ativments
 
 hvad har jeg lavet før jeg begyndte at bruge githud
 
-# Grundforløb:
+## Grundforløb:
 App-lab, gestalt love, prototyper, brugertest (think-aloud)
 
 vi lavede en app til et bil firma
@@ -15,7 +15,7 @@ vi lavede en app til et bil firma
 # 1.g
 
 
-Programmering:
+## Programmering:
 Variabler, løkker, kontrolstrukturer (if/else), lister. Sierpinski trekant kode, fysiksimuleringskode
 
 [mit kode jeg fik lavet med hoppe bolde](https://editor.p5js.org/eliassjerslevrasmussen/full/fqXPLk_ei)
@@ -24,7 +24,7 @@ Variabler, løkker, kontrolstrukturer (if/else), lister. Sierpinski trekant kode
 
 
 
-Kryptering:
+## Kryptering:
 Symmetrisk vs. Asymmetrisk kryptering, RSA, Caesar.
 
 vi skulle lave ceasar ciffer i p5js
@@ -37,7 +37,7 @@ Vi lavede vist også et lille program til at kryptere/dekryptere beskeder - Der 
 
 
 
-3D Design og print
+## 3D Design og print
 Fusion, Cura (Creality CR10S-pro), Bambu studio (Bambu lab P2S)
 
 vi fik til opgave at 3D designe nogle forskellige geometriske figurer i fusion figurene skulle all have en ens volume på 5cm2 
@@ -47,7 +47,7 @@ vi fik til opgave at 3D designe nogle forskellige geometriske figurer i fusion f
 
 
 
-
+## Markdown 
 Når man får brug for at vide lidt mere om markdown:
 Markdown er den syntaks man bruger på github til at lave readme filer... Den der forkant den betyder at det er en overskrift.
 
@@ -57,14 +57,14 @@ cheatSheet til markdown:
 
 
 
-# arduino project
+## arduino project
 (https://github.com/GBJ14/Arduinoprojekt-1)
 endte med at bruge en esp32
 <img width="327" height="191" alt="image" src="https://github.com/user-attachments/assets/e0f56394-2cda-4181-96d6-724abbc42c9f" />
 
 
 
-# tello drone
+## tello drone
 (https://github.com/GBJ14/Tello-drone-tingting)
 <img width="423" height="420" alt="image" src="https://github.com/user-attachments/assets/b5caa20f-8c7d-432e-853d-c0cc65a91716" />
 
