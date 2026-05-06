@@ -50,6 +50,7 @@ cheatSheet til markdown:
 
 # tello drone
 (https://github.com/GBJ14/Tello-drone-tingting)
+<img width="423" height="420" alt="image" src="https://github.com/user-attachments/assets/b5caa20f-8c7d-432e-853d-c0cc65a91716" />
 
 
 
